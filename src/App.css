@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.sidebar {
+  min-height: calc(100vh - 56px);
+  height: 100%;
+  background: #f8f9fa;
+}
+
+img{
+  max-width: 100px;
+  object-fit: contain;
+}
+
+td{
+  vertical-align:middle;
+}
